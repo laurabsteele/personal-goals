@@ -42,3 +42,4 @@ Stop worrying so much about the people around you and just do what you think is 
 - [ ] Understand JSON
 - [x] Figure out what [Surge](http://surge.sh/) is (not something I want to get into right now. Might be cool for future projects)
 - [ ] Decide what type of blog system I should use
+- [ ] Attempt [JS30](https://javascript30.com/)
