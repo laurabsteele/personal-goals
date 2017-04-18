@@ -17,15 +17,16 @@ Stop worrying so much about the people around you and just do what you think is 
 
 ## Things I'll Do This Week:
 - [ ] Come up with ideas for a blog
-- [ ] Create R &amp; R RSVP card
-- [ ] Read [this blog post](https://css-tricks.com/snippets/css/complete-guide-grid)
-- [ ] Read [this blog post](https://skillcrush.com/2014/06/26/the-developer-mindset)
+- [ ] Create R&amp;R RSVP card
+- [ ] Build out reading list
+- [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)
+- [ ] Read [this blog post (The Developer Mindset)](https://skillcrush.com/2014/06/26/the-developer-mindset)
 
 ### Things I'll Do This Month: April 2017
 - [ ] Visit & Document Chicago
 - [ ] One page of hand lettering a day
 - [x] Come up with a new side project
-- [ ] Start the backbones of the side projects
+- [ ] Complete inspiration boards for Infographic and Cookbook on Trello
 - [ ] Read one of my web design books
 - [ ] Start collecting ideas for personal design brand
 
