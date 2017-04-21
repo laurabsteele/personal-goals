@@ -31,6 +31,11 @@ Books That I Want to Read
 - [ ] Princeps' Fury - Jim Butcher
 - [ ] First Lord's Fury - Jim Butcher
 
+### Skinjacker Trilogy
+- [ ] Everlost - Neal Shusterman
+- [ ] Everwild - Neal Shusterman
+- [ ] Everfound - Neal Shusterman
+
 ### Stand Alone
 - [ ] Night Circus -  Erin Morgenstern
 - [ ] Station Eleven - Emily St. John Mandel
