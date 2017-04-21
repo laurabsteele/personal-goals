@@ -37,6 +37,7 @@ Books That I Want to Read
 - [ ] Til We Have Faces -  C. S. Lewis
 - [ ] Watership Down - Richard Adams
 - [ ] Where'd You Go, Bernadette-  Maria Semple
+- [ ] Series of Unfortunate Events
 
 ## Career Building
 - [ ] Nice Girls Don't Get the Corner Office - Lois P. Frankel
