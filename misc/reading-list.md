@@ -2,28 +2,28 @@ Books That I Want to Read
 ==================
 
 ## In Progress
-RESPONSIVE DESIGN: PATTERNS & PRINCIPLES - Ethan Marcotte
-Seeing Redd - Frank Beddor
+- [ ] RESPONSIVE DESIGN: PATTERNS & PRINCIPLES - Ethan Marcotte
+- [ ] Seeing Redd - Frank Beddor
 
 ## Fiction
 
-## Inheritance Series
+### Inheritance Series
 - [ ] Eragon - Christopher Paolini
 - [ ] Eldest - Christopher Paolini
 - [ ] Brisingr - Christopher Paolini
 - [ ] Inheritance - Christopher Paolini
 
-## Looking Glass Wars Series
+### Looking Glass Wars Series
 - [x] The Looking Glass Wars - Frank Beddor
 - [ ] Seeing Redd - Frank Beddor
 - [ ] Archenemy - Frank Beddor
 
-## Silo Series
+### Silo Series
 - [ ] Wool - Hugh Howey
 - [ ] Shift - Hugh Howey
 - [ ] Dust - Hugh Howey
 
-## Codex Alera Series
+### Codex Alera Series
 - [ ] Furies of Calderon - Jim Butcher
 - [ ] Academ's Fury - Jim Butcher
 - [ ] Cursor's Fury	 - Jim Butcher
@@ -31,7 +31,7 @@ Seeing Redd - Frank Beddor
 - [ ] Princeps' Fury - Jim Butcher
 - [ ] First Lord's Fury - Jim Butcher
 
-# Stand Alone
+### Stand Alone
 - [ ] Night Circus -  Erin Morgenstern
 - [ ] Station Eleven - Emily St. John Mandel
 - [ ] Til We Have Faces -  C. S. Lewis
@@ -50,7 +50,6 @@ Seeing Redd - Frank Beddor
 - [ ] Design as Art - Bruno Munari
 
 ### User Experience
-
 - [ ] White Hat UX: The Next Generation in User Experience - Trine Falbe, Kim Anderson, Martin Michael Fresderiksen
 
 ## Religious
@@ -63,5 +62,4 @@ Seeing Redd - Frank Beddor
 - [ ] The Prodigal God - Tim Keller
 
 ## Self-Improvement
-
 - [ ] Superbetter - Jane McGonigal
