@@ -36,6 +36,35 @@ Books That I Want to Read
 - [ ] Everwild - Neal Shusterman
 - [ ] Everfound - Neal Shusterman
 
+### Mortal Instruments Series
+- [ ] City of Bones
+- [ ] City of Ashes
+- [ ] City of Glass
+- [ ] City of Fallen Angels
+- [ ] City of Lost Souls
+- [ ] City of Heavenly Fire
+
+### Pendragon Series - D. J. MacHale
+- [ ] The Merchant of Death
+- [ ] The Lost City of Faar
+- [ ] The Never War
+- [ ] The Reality Bug
+- [ ] Black Water
+- [ ] The Rivers of Zadaa
+- [ ] The Quillan Games
+- [ ] The Pilgrims of Rayne
+- [ ] Raven Rise
+- [ ] The Soldiers of Halla
+
+### Gone series - Michael Grant
+- [ ] Gone
+- [ ] Hunger
+- [ ] Lies
+- [ ] Plague
+- [ ] Fear
+- [ ] Light
+- [ ] Monster
+
 ### Stand Alone
 - [ ] Night Circus -  Erin Morgenstern
 - [ ] Station Eleven - Emily St. John Mandel
@@ -43,6 +72,8 @@ Books That I Want to Read
 - [ ] Watership Down - Richard Adams
 - [ ] Where'd You Go, Bernadette-  Maria Semple
 - [ ] Series of Unfortunate Events
+- [ ] Between the Lines - Jodi Picoult & Samantha van Leer
+- [ ] Off the Page - Jodi Picoult & Samantha van Leer
 
 ## Career Building
 - [ ] Nice Girls Don't Get the Corner Office - Lois P. Frankel
