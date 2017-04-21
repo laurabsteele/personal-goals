@@ -8,12 +8,12 @@ I want to be a better designer, but also learn how think like a developer. As I 
 2. Learn how to think like a developer
 3. Get better at coding
 4. Get better at articulating my ideas
-5. Learn about CSS
+5. Make Health a Priority
 
 # April 16, 2017
 
-### This Week's Goal:
-Stop worrying so much about the people around you and just do what you think is fun and exciting and learn something.
+### This Week's Goal: Stop worrying so much about the people around you
+Just do what you think is fun and exciting and learn something.
 
 ## Things I'll Do This Week:
 - [x] Come up with ideas for a blog

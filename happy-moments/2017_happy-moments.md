@@ -12,3 +12,4 @@ I got to spend the evening with Alisha and chat with her about all the things th
 
 03/20/2017
 ==============
+Giving blood is a good thing to do, but man it makes you tired! I gave blood at the blood drive at work and then worked on other projects in the evening. By 9 o'clock I fell into bed I was so sleepy! 
