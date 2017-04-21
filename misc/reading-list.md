@@ -1,31 +1,29 @@
 Books That I Want to Read
 ==================
 
-# In Progress
+## In Progress
 RESPONSIVE DESIGN: PATTERNS & PRINCIPLES - Ethan Marcotte
 Seeing Redd - Frank Beddor
 
-## Fiction Books
+## Fiction
 
-# Series
-
-## Inheritance
+## Inheritance Series
 - [ ] Eragon - Christopher Paolini
 - [ ] Eldest - Christopher Paolini
 - [ ] Brisingr - Christopher Paolini
 - [ ] Inheritance - Christopher Paolini
 
-## Looking Glass Wars
+## Looking Glass Wars Series
 - [x] The Looking Glass Wars - Frank Beddor
 - [ ] Seeing Redd - Frank Beddor
 - [ ] Archenemy - Frank Beddor
 
-## Silo
+## Silo Series
 - [ ] Wool - Hugh Howey
 - [ ] Shift - Hugh Howey
 - [ ] Dust - Hugh Howey
 
-## Codex Alera
+## Codex Alera Series
 - [ ] Furies of Calderon - Jim Butcher
 - [ ] Academ's Fury - Jim Butcher
 - [ ] Cursor's Fury	 - Jim Butcher
@@ -40,8 +38,8 @@ Seeing Redd - Frank Beddor
 - [ ] Watership Down - Richard Adams
 - [ ] Where'd You Go, Bernadette-  Maria Semple
 
-## Career Building Books
-[] - Nice Girls Don't Get the Corner Office: Unconscious Mistakes Women Make That Sabotage Their Careers - Lois P. Frankel
+## Career Building
+- [ ] Nice Girls Don't Get the Corner Office - Lois P. Frankel
 
 ### Development
 - [ ] RESPONSIVE DESIGN: PATTERNS & PRINCIPLES - Ethan Marcotte
@@ -56,11 +54,13 @@ Seeing Redd - Frank Beddor
 - [ ] White Hat UX: The Next Generation in User Experience - Trine Falbe, Kim Anderson, Martin Michael Fresderiksen
 
 ## Religious
+
+### Christianity
 - [ ] Jesus Through Middle Eastern Eyes - Ken Bailey
-- [ ] Speaking of Jesus -
-- [ ] Forgotten God
-- [ ] Not a Fan
-- [ ] The Prodigal God
+- [ ] Speaking of Jesus - Carl Medearis
+- [ ] Forgotten God - Francis Chan
+- [ ] Not a Fan - Kyle Idleman
+- [ ] The Prodigal God - Tim Keller
 
 ## Self-Improvement
 
