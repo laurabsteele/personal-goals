@@ -7,20 +7,25 @@ Seeing Redd - Frank Beddor
 
 ## Fiction Books
 
-#Series
+# Series
+
+## Inheritance
 - [ ] Eragon - Christopher Paolini
 - [ ] Eldest - Christopher Paolini
 - [ ] Brisingr - Christopher Paolini
 - [ ] Inheritance - Christopher Paolini
 
+## Looking Glass Wars
 - [x] The Looking Glass Wars - Frank Beddor
 - [ ] Seeing Redd - Frank Beddor
 - [ ] Archenemy - Frank Beddor
 
+## Silo
 - [ ] Wool - Hugh Howey
 - [ ] Shift - Hugh Howey
 - [ ] Dust - Hugh Howey
 
+## Codex Alera
 - [ ] Furies of Calderon - Jim Butcher
 - [ ] Academ's Fury - Jim Butcher
 - [ ] Cursor's Fury	 - Jim Butcher
@@ -28,7 +33,7 @@ Seeing Redd - Frank Beddor
 - [ ] Princeps' Fury - Jim Butcher
 - [ ] First Lord's Fury - Jim Butcher
 
-#Stand Alone
+# Stand Alone
 - [ ] Night Circus -  Erin Morgenstern
 - [ ] Station Eleven - Emily St. John Mandel
 - [ ] Til We Have Faces -  C. S. Lewis
@@ -57,6 +62,6 @@ Seeing Redd - Frank Beddor
 - [ ] Not a Fan
 - [ ] The Prodigal God
 
-##Self-Improvement
+## Self-Improvement
 
 - [ ] Superbetter - Jane McGonigal
