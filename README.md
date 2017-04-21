@@ -16,11 +16,11 @@ I want to be a better designer, but also learn how think like a developer. As I 
 Stop worrying so much about the people around you and just do what you think is fun and exciting and learn something.
 
 ## Things I'll Do This Week:
-- [ ] Come up with ideas for a blog
-- [ ] Create R&amp;R RSVP card
+- [x] Come up with ideas for a blog
+- [x] Create R&amp;R RSVP card
 - [ ] Build out reading list
 - [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)
-- [ ] Read [this blog post (The Developer Mindset)](https://skillcrush.com/2014/06/26/the-developer-mindset)
+- [x] Read [this blog post (The Developer Mindset)](https://skillcrush.com/2014/06/26/the-developer-mindset)
 
 ### Things I'll Do This Month: April 2017
 - [ ] Visit & Document Chicago
