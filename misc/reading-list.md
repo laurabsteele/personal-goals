@@ -3,7 +3,7 @@ Books That I Want to Read
 
 ## In Progress
 - [ ] RESPONSIVE DESIGN: PATTERNS & PRINCIPLES - Ethan Marcotte
-- [ ] Seeing Redd - Frank Beddor
+- [ ] Archenemy - Frank Beddor
 
 ## Fiction
 
@@ -15,7 +15,7 @@ Books That I Want to Read
 
 ### Looking Glass Wars Series
 - [x] The Looking Glass Wars - Frank Beddor
-- [ ] Seeing Redd - Frank Beddor
+- [x] Seeing Redd - Frank Beddor
 - [ ] Archenemy - Frank Beddor
 
 ### Silo Series

@@ -10,29 +10,32 @@ I want to be a better designer, but also learn how think like a developer. As I 
 4. Get better at articulating my ideas
 5. Make Health a Priority
 
-# April 16, 2017
+# April 23, 2017
 
-### This Week's Goal: Stop worrying so much about the people around you
-Just do what you think is fun and exciting and learn something.
+### This Week's Goal: Deep Breaths &amp; Enjoy the Learning
 
 ## Things I'll Do This Week:
-- [x] Come up with ideas for a blog
-- [x] Create R&amp;R RSVP card
-- [ ] Build out reading list
 - [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)
-- [x] Read [this blog post (The Developer Mindset)](https://skillcrush.com/2014/06/26/the-developer-mindset)
+- [ ] Create one new codepen for CSS Grid
+- [ ] Figure out a fun and unique way to document Chicago
+- [ ] Complete inspiration boards for Infographic and Cookbook on Trello
+- [ ] Read another chapter of Ethan Marcotte's Book
+- [ ] Collect ideas for personal design brand
+
 
 ### Things I'll Do This Month: April 2017
-- [ ] Visit & Document Chicago
+
 - [ ] One page of hand lettering a day
 - [x] Come up with a new side project
 - [ ] Complete inspiration boards for Infographic and Cookbook on Trello
-- [ ] Read one of my web design books
-- [ ] Start collecting ideas for personal design brand
+- [ ] Read a web design book
+- [ ] Start collecting ideas for personal design brand. Starting the new portfolio site process
 
 ### Backlog: Side Projects
-- [ ] Work on Seattle Thunderbirds Infographic
-- [ ] Work on Cookbook
+- [ ] Seattle Thunderbirds Infographic
+- [ ] Hockey Basics Infographic
+- [ ] Cookbook App or actual book. Not sure what this looks like. Thinking about doing UX research on what people who cook would want.
+- [ ] Portfolio Site
 
 ### Backlog: Code Things I Want to Do/Play With
 - [ ] CSS Grid
