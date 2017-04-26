@@ -20,8 +20,8 @@ I want to be a better designer, but also learn how think like a developer. As I 
 - [ ] Figure out a fun and unique way to document Chicago
 - [ ] Complete inspiration boards for Infographic and Cookbook on Trello
 - [ ] Read another chapter of Ethan Marcotte's Book
-- [ ] Collect ideas for personal design brand
-
+- [ ] Collect ideas for personal brand
+- [ ] Finish Paden Family T-shirt
 
 ### Things I'll Do This Month: April 2017
 
@@ -39,6 +39,7 @@ I want to be a better designer, but also learn how think like a developer. As I 
 
 ### Backlog: Code Things I Want to Do/Play With
 - [ ] CSS Grid
+- [ ] Find a book about rapid prototyping
 - [ ] NPM Linking
 - [ ] JavaScript
 - [ ] Advanced CSS
