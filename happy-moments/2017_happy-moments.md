@@ -46,3 +46,18 @@ Trip to Chicago!
 - Getting to look at the sun in the telescope randomly
 - Taking bus back and getting off to soon
 - Sad leaving always
+
+03/25/2017
+==============
+Vacations are wonderful, but one of the best things will always be getting to come home to my wonderful husband. He makes me feel so loved and happy whenever I around him. I had a hard day at work with taking on so much more responsibility with big clients and it felt very overwhelming but he was able to help me calm down and make everything seem so much more manageable.
+
+03/26/2017
+==============
+Go Preds go! Only undefeated team in the playoffs with 5 wins in a row!
+
+03/27/2017
+==============
+I started diving into my Chicago trip documentation! I am really excited about how it is starting out and think it will be a cool project to leverage to different vacations I can take. It is a good challenge to weight the pros and cons of what features would be good to have now or not worry about until later.
+
+03/25/2017
+==============
