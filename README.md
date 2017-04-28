@@ -18,7 +18,7 @@ I want to be a better designer, but also learn how think like a developer. As I 
 - [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)
 - [ ] Create one new codepen for CSS Grid
 - [x] Figure out a fun and unique way to document Chicago
-- [ ] ~~ Complete inspiration boards for Infographic and Cookbook on Trello ~~
+- [ ] ~~Complete inspiration boards for Infographic and Cookbook on Trello~~
 - [ ] Read another chapter of Ethan Marcotte's Book
 - [ ] Read article about Rapid prototyping from UXPin
 - [ ] Collect ideas for personal brand
@@ -44,7 +44,7 @@ I want to be a better designer, but also learn how think like a developer. As I 
 - [ ] Hockey Basics Infographic
 - [ ] Cookbook App or actual book. Not sure what this looks like. Thinking about doing UX research on what people who cook would want.
 - [ ] Portfolio Site
-- [ ] Travel Timeline 
+- [ ] Travel Timeline
 
 ### Backlog: Career Things I Want to Do/Learn/Play With
 - [X] Find a book about rapid prototyping
