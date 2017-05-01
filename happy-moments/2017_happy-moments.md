@@ -59,5 +59,21 @@ Go Preds go! Only undefeated team in the playoffs with 5 wins in a row!
 ==============
 I started diving into my Chicago trip documentation! I am really excited about how it is starting out and think it will be a cool project to leverage to different vacations I can take. It is a good challenge to weight the pros and cons of what features would be good to have now or not worry about until later.
 
-03/25/2017
+03/28/2017
+==============
+I presented on Ethan Marcotte presentation from An Event Apart and ROCKED it. Everyone said that I did a great job with my speed and giving good information. So that feels really good to know that I am continuing to improve in presenting. I think a big reason I felt more confident even though I was so nervous and shaking a little bit. I must have gotten some of the speaker skills from mom and dad.
+
+Following up a good work day with a hockey friend date with sushi and a great (but stressful) hockey game is wonderful!
+
+03/29/2017
+==============
+After traveling and having to go immediately back to work it's easy to feel overwhelmed so adding in a lazy Saturday morning then going on a long run is perfect! After getting back from my run Nathan and I went out to get errands done and ended up going to Din Tai Fung with no wait! Impromptu date night will alway be my favorite.
+
+03/30/2017
+==============
+I love being able to be on church staff and helping run the service, but I think not having to run the service and being able to just relax is just as nice to really be able to talk to friends and not worry about how everything is running.
+
+After another chill Sunday afternoon I went over the Henry's for a fun evening of good food, wine and lots of laughs.
+
+04/01/2017
 ==============
