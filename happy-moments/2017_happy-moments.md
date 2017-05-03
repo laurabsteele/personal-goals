@@ -77,3 +77,8 @@ After another chill Sunday afternoon I went over the Henry's for a fun evening o
 
 04/01/2017
 ==============
+Run for 20 minutes without stopping! It was slow, but I did it!
+
+04/02/2017
+==============
+Chores done. Hockey awesome.

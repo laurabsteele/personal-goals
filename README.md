@@ -15,18 +15,19 @@ I want to be a better designer, but also learn how think like a developer. As I 
 ### This Week's Goal: Deep Breaths &amp; Enjoy the Learning
 
 ## Things I'll Do This Week:
-- [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)
+- [ ] Read introduction to CSS Grid
 - [ ] Create one new codepen for CSS Grid
 - [ ] Read another chapter of Ethan Marcotte's Book
-- [ ] Read article about Rapid prototyping from UXPin
+- [x] Read article about Rapid prototyping from UXPin
 - [ ] Collect ideas for personal brand
-- [ ] Figure out how to make sure I take a break and rest without feeling guilty about it
-- [ ] Get a library card
+- [x] Figure out how to make sure I take a break and rest without feeling guilty about it
+- [x] Get a library card
 
-### Things I'll Do This Month: April 2017
+### Things I'll Do This Month: May 2017
 - [ ] One page of hand lettering a day
 - [ ] Read a web design book
 - [ ] Start collecting ideas for personal design brand. Starting the new portfolio site process
+- [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)
 
 ### Backlog: Side Projects
 - [ ] Seattle Thunderbirds Infographic
