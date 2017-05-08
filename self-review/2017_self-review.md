@@ -21,7 +21,6 @@ While I have not been in much code recently I have been able to really understan
 ## Life Things
 My outside of work life is feeling really good right now. I have a wonderful husband who is so good to me and a cat.. well who is a cat. I have a lot of upcoming vacations toward the end of the year which will give a good break between the busyness that working full-time and trying to balance everything brings.
 
-
 Goals for the rest of 2017
 ==============
 

@@ -31,6 +31,21 @@
 * Showcase what I enjoy and what projects I am working on
 * Develop my skills of being able to articulate and tell a story
 
+## Values
+Identify values that really matter to me. Figure out how to incorporate them into what I do for a living.
+- Compassion
+- Faith
+- Meaningful Work
+- Creativity
+
+## Vision
+Write out a vision of what my dream job would be. If I have a vision of what I want my dream job to be then I will have an easier time being able to focus my portfolio.
+
+The problem with my vision and knowing my dream job is it would ideally be a job that can combine: web design, small amounts of front-end development, UX, and graphic design. I am not sure where a job like that falls. Maybe I just need to do more research.
+
+## Personal story
+Write out where I came from and why I am so passionate about what I do. I have been doing it for a long time, and there is nothing else I rather be doing. I'm passionate about what I do and I can write about why I am so passionate about it and how I found it.
+
 ### Possible Focus of Portfolio
 - [ ] Graphic design
 - [ ] Web design

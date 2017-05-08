@@ -8,4 +8,5 @@ Week of April 23
 Week of May 1
 ====================
 1. Monday - Running 20 minutes without stopping. 1.6 miles
-2. Tuesday - 15 minutes walk. 15 minutes weight training. 
+2. Tuesday - 15 minutes walk. 15 minutes weight training.
+3. Saturday - 3 mile hike to Twin Falls.

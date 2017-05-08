@@ -82,3 +82,35 @@ Run for 20 minutes without stopping! It was slow, but I did it!
 04/02/2017
 ==============
 Chores done. Hockey awesome.
+
+04/03/2017
+==============
+The Bible studies at church started back up and it was nice to go. I haven't been good at going as much as I used to but this study is much nicer than the past couple. Looking forward to it!
+
+04/04/2017
+==============
+May the Fourth be with You!
+
+Big storms (for Seattle) came through last night. Luckily I don't have to drive much and the trains weren't delayed when I went out. It was amazing how hard it was raining and all the flash floods. I enjoyed a while just sitting and watching out the window with Ava being confused.
+
+04/05/2017
+==============
+Went over to the Henry's for Cinco De Mayo. Lots of yummy food, margaritas and watched the hockey game! While the week hasn't been overwhelmingly busy it was really nice to just relax with friends and goof off together all evening.
+
+04/06/2017
+==============
+What a wonderful day! It turned into a date day all day!
+- Morning hike to Twin Falls.
+  - Getting rained &amp; hailed on randomly getting to the top.
+  - Silly chipmunks that know children are good for dropping food
+  - Little dogs so muddy they can barely walk
+- Afternoon movie in south center to see Guardians of the Galaxy
+- Dinner at Blue C
+- Dessert at a Ben &amp; Jerry's kiosk and just chatting at the mall
+
+04/07/2017
+==============
+It is always nice to see friends at a church in the mornings even when things are busy. I did head shots for the website and they all turned out pretty well! The afternoon was spent catching up on chores and making the apartment look nice again. The evening was game night with Seth and Melissa! Pie Face is way more stressful than you might think!
+
+04/08/2017
+==============
