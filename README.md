@@ -10,7 +10,7 @@ I want to be a better designer, but also learn how think like a developer. As I 
 4. Get better at articulating my ideas
 5. Make Health a Priority
 
-# April 23, 2017
+# May 7, 2017
 
 ### This Week's Goal: Focus on passion projects not just 'have to' projects
 
