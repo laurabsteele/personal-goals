@@ -114,3 +114,36 @@ It is always nice to see friends at a church in the mornings even when things ar
 
 04/08/2017
 ==============
+While it's not really a 'happy moment' I want to showcase the crazy of trying to get to work this morning. When I got to the Sounder everything seemed to be fine, but when I walked up to the the wraparound there was a semi that had hit the train tracks and the roof of it was almost sheered off. Find out about 10 minutes later that they had to do an inspection of the tracks to make sure it was stable enough for trains to go through. Since I didn't know how long that was going to take and the bus was going to take another 10 minutes to get there and then 20 minutes to get to the light rail I decided to get an Uber. Seth was with me so he came, and then I asked the group of other commuters if two more wanted to share the uber. Two random people did and we took the commute over to the light rail to get back into Seattle. I am very thankful that I have a manager who is so easy going and in a career that it doesn't matter that I come in really late. (Also good that I always come in early so barely anyone even noticed I was 30 minutes late)
+
+Recently I have gotten to spend so much time with Nathan and it's an amazing thing. After I got home from work I was able relax and we watched 'Get Smart'. I loved it! Steve Carrell is my favorite.
+
+04/09/2017
+==============
+I had a meeting with client F today and it went AMAZING. My presentation skills have improved dramatically and I feel very confiedent when I am talking to people. I think a big part of it is how much I am preparing for the meetings. I am writing out agenda, double-checking everything and confirming everything just to make sure a one hour meeting goes well and I really think it is paying off! My favorite part of the meeting is when I told them about a new color I wanted to add to the design. They were very unsure about it and not sure if it fit well. I was able to tell them exactly why I chose it, why I thought it was a good fit for the design, and how it fit with the art direction we were going. Even Shawn pinged me after and told me that I had done a good job. That always feels the best!
+
+04/10/2017
+==============
+Grumpy. Grumps. At least I was able to be productive at work.
+
+And just like that the good mood comes back because the Thunderbirds dominated in game 4! Game 5 is on Friday, and hopefully another big win to end the season at home!
+
+04/10/2017
+==============
+So sleepy. Having two late nights in a row is so exhausting. I am ready for the weekend and just relax.
+
+04/11/2017
+==============
+We went to Carissa's photography class silent auction. Some of the kids had some really good photos and I bought a cool shot of some street art from LA. The high school was a semi outdoor campus and reminded me of all the times in high school I always thought it would be cool to have an outdoor campus.
+
+04/12/2017
+==============
+Last home hockey game of the season and it was such a good game! The Thunderbirds are the better team and they really showed it. Hopefully they can win the series on Sunday!
+
+04/13/2017
+==============
+The first 100% lazy day I have had in month and month and months. I made pasta, did a couple chores, and spent most of the day doing a lot of nothing. Ending the evening with watching 'Spirited Away' with Nathan!
+
+04/13/2017
+==============
+Church. Mother's Day. Lunch with the whole crew (Henry's, Kirby's, (soon to be) Smith's and Lewis's). Spending the afternoon getting chores done and making the apartment decent. And then the most amazing part of the weekend going over to the Kirby's and watching the Thunderbirds winning the WHL cup for the first time ever! 

@@ -10,7 +10,7 @@ I want to be a better designer, but also learn how think like a developer. As I 
 4. Get better at articulating my ideas
 5. Make Health a Priority
 
-# May 7, 2017
+# May 14, 2017
 
 ### This Week's Goal: Focus on passion projects not just 'have to' projects
 
@@ -18,8 +18,9 @@ I want to be a better designer, but also learn how think like a developer. As I 
 - [ ] Create one new codepen for CSS Grid
 - [ ] Read another chapter of Ethan Marcotte's Book
 - [ ] Spend at least an hour on one hand lettering project
-- [ ] Sketch ideas for a Thunderbirds poster
+- [ ] Continue Sketching ideas for a Thunderbirds poster
 - [ ] Write outline for personal brand/design story
+- [ ] Research websites for Evoynne 
 
 ### Things I'll Do This Month: May 2017
 - [ ] One page of hand lettering a day
