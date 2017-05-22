@@ -12,18 +12,15 @@ I want to be a better designer, but also learn how think like a developer. As I 
 
 # May 14, 2017
 
-### This Week's Goal: Focus on passion projects not just 'have to' projects
+### This Week's Goal: Carpe Diem. It's scary, opportunities are new, but seize the day and don't second guess.
 
 ## Things I'll Do This Week:
-- [ ] Create one new codepen for CSS Grid
-- [ ] Read another chapter of Ethan Marcotte's Book
-- [ ] Spend at least an hour on one hand lettering project
-- [ ] Continue Sketching ideas for a Thunderbirds poster
+- [ ] Read another 3 chapters of Lean In.
+- [ ] Refresh existing portfolio site
+- [ ] E-mail Evoynne to see what she is looking for in a new website
 - [ ] Write outline for personal brand/design story
-- [ ] Research websites for Evoynne 
 
 ### Things I'll Do This Month: May 2017
-- [ ] One page of hand lettering a day
 - [ ] Read a web design book
 - [ ] Write self brand story
 - [x] Start collecting ideas for personal design brand. Starting the new portfolio site process

@@ -49,9 +49,10 @@ Write out where I came from and why I am so passionate about what I do. I have b
 ### Possible Focus of Portfolio
 - [ ] Graphic design
 - [ ] Web design
+- [ ] UI
 - [ ] UX
 - [ ] Front-End Development
-- [ ] UI designer
+
 
 ### Sites for inspiration
 - [ ]
@@ -73,15 +74,29 @@ Write out where I came from and why I am so passionate about what I do. I have b
 * Laura Paden Text Illustation
 * Seattle Icons
 
-
 #### Development
 * Link to Code Pen
+* Link to GitHub
 
 #### User Experience
-* General Assembly Project
+* General Assembly Project - I need to figure out a way to really show this off on my site. There are so many pieces because I walked through the entire process. Maybe I could put my slide deck on my website as well as the final project. Also could put a link to the Google Docs file so people could see all of the different elements that are possible.
+
+#### Graphic Design
+* Laura Paden Vector - One of my favorite illustration projects from college I took the idea of my name and in it personified what I was as a designer. The thick solid lines are to show the technology rigidness when working within a framework, but it also has areas to find creativity.
+* CVC Billboard - Designed to advertise for Easter service it needed to be bold, informational, and also fit the brand of the church and event. Since it was on a billboard it has to be easy to digest as people drove by.
+* CVC Template - With so many events always happening at a church it is difficult to make a new graphic or printed collatoral for everyone in a good amount of time. I created a template so it is easy to add in new information for quick turnaround and ease for the printer.
+* Seattle Icons - In a stretch project for me as an illustator. I wanted to make something that showed off where I was going to be relocating to and also stretch. I was able to put out a good product and learned a lot about best practices in illustating.
+* Packaging Design - Swaddle - This is a good example of how I was put in a place that I was not expecting to be, but I was still able to thrive and got the work done that was expected of me.
+* Layout Design - Swaddle
+
+#### Email Design
+* Hyundai DAP - Completely redone from what the template was in previous months.
+* Chevy DAP
+* Buick DAP
 
 #### User Interface
-* Swaddle Designs Mobile Site
-* SwaddleClub
+* Swaddle Designs Mobile Site - This was my first professional UI design. Once I had started at Swaddle they were just about to launch their new desktop site, and after 6 months of having that site live they realized that a mobile site was imperative for the business with so many people shopping on mobile. Unfortunately the scope of the project did not allow a mobile site, but I did the best I could within the parameters. The biggest important on the mobile site was shopping. On desktop there is a lot more focused on the background information about the company and the designer, but on mobile we knew that people were just there to shop and if they wanted the rest of the information they could still access it, but it was not as important.
+* SwaddleClub - As a differenator project the purpose of this was to help bring some relief to tired mothers. On the edge of the blanket there was a QR code where moms could scan it and bring them to the SwaddleClub website. On this site there are help videos and the ability to stream white noise to help babies sleep. While this project never made a big impression in the market place we were able to get over a thousand unique users signed up and there is still continued support.
+* Chicago Trip Mockup - I wanted a unique way to show off the trip that I took to Chicago. This is still an ongoing project with only rough UI patterns created, but the long term goal of this project is to be able to use it as a way to tell people about trips that I went off and the things that we did.
 
 ### List of Portfolio Items to include

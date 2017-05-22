@@ -120,7 +120,7 @@ Recently I have gotten to spend so much time with Nathan and it's an amazing thi
 
 04/09/2017
 ==============
-I had a meeting with client F today and it went AMAZING. My presentation skills have improved dramatically and I feel very confiedent when I am talking to people. I think a big part of it is how much I am preparing for the meetings. I am writing out agenda, double-checking everything and confirming everything just to make sure a one hour meeting goes well and I really think it is paying off! My favorite part of the meeting is when I told them about a new color I wanted to add to the design. They were very unsure about it and not sure if it fit well. I was able to tell them exactly why I chose it, why I thought it was a good fit for the design, and how it fit with the art direction we were going. Even Shawn pinged me after and told me that I had done a good job. That always feels the best!
+I had a meeting with client F today and it went AMAZING. My presentation skills have improved dramatically and I feel very confident when I am talking to people. I think a big part of it is how much I am preparing for the meetings. I am writing out agenda, double-checking everything and confirming everything just to make sure a one hour meeting goes well and I really think it is paying off! My favorite part of the meeting is when I told them about a new color I wanted to add to the design. They were very unsure about it and not sure if it fit well. I was able to tell them exactly why I chose it, why I thought it was a good fit for the design, and how it fit with the art direction we were going. Even Shawn pinged me after and told me that I had done a good job. That always feels the best!
 
 04/10/2017
 ==============
@@ -144,6 +144,44 @@ Last home hockey game of the season and it was such a good game! The Thunderbird
 ==============
 The first 100% lazy day I have had in month and month and months. I made pasta, did a couple chores, and spent most of the day doing a lot of nothing. Ending the evening with watching 'Spirited Away' with Nathan!
 
-04/13/2017
+04/14/2017
 ==============
-Church. Mother's Day. Lunch with the whole crew (Henry's, Kirby's, (soon to be) Smith's and Lewis's). Spending the afternoon getting chores done and making the apartment decent. And then the most amazing part of the weekend going over to the Kirby's and watching the Thunderbirds winning the WHL cup for the first time ever! 
+Church. Mother's Day. Lunch with the whole crew (Henry's, Kirby's, (soon to be) Smith's and Lewis's). Spending the afternoon getting chores done and making the apartment decent. And then the most amazing part of the weekend going over to the Kirby's and watching the Thunderbirds winning the WHL cup for the first time ever!
+
+04/15/2017
+==============
+Went to the gym after work! Got all of my errands and chores done that I didn't get around to on the weekend, finishing up meal prepping and then just spending the rest of the evening relaxing. Good time to recover from lots of people over the weekend.
+
+04/16/2017
+==============
+After the Ford meeting Shawn brought up that UX team is hiring and asking for recommendations and wanted to know if I was interested. I was taken aback because that would take me off her team after all of the time she has spent with me helping me grow in my career. Her being willing to let me try to move to another role because it would be good for my career felt so good! It made me be even more happy that I am on her team because I know she is going to let me thrive.
+
+After work I went to dinner with Alisha and we ended up chatting for 3 hours at Panera it was really nice to catch up (even though it had only been like 2 weeks) and just chat about everything that has been going on.
+
+04/17/2017
+==============
+Had a meeting with the UX manager! He told me that I am a candidate for an interview for sure, but they are looking at lots of people both internal and external. I do think that I have a shot at it even though I don't have as much experience as other people because I already know generally how CDK works (even though it's another team) and I am a quick learner! At the end of the meeting he mentioned that even if I don't get it I am on a good path with my career. I had told him how I paved my own path through CDK and moved onto something that I enjoyed more. He said that is a really good story to tell so I will have to pull that into my portfolio.
+
+I went to Bible study even though I really wasn't feeling it, but it ended up being good to see everyone and I did get something out of it!
+
+04/18/2017
+==============
+Caught a mild cold. Slept all evening.
+
+04/19/2017
+==============
+Luckily the cold I caught was just a simple one and I was able to get back to normal! I left work a few minutes early and hit the trail! It was a simple 5k walk, but it was so nice outside as the weather is finally turning into summer and was so nice to be outside for a long amount of time!
+
+04/20/2017
+==============
+I had a 100% free day! No plans! I got to do whatever I felt like in the moment. I slept in, made a good breakfast, went to the trail and walked five miles, read a book, made pasta, got chores done. It was a really great day!
+
+04/21/2017
+==============
+I got to church and I found out I wasn't running media! That was exciting to have the next hour to do whatever I wanted! After church we went out to lunch with the Kirby's and it was fun to chill with them!
+
+The rest of the day was more checking stuff off lists: chores, book reading, sketching. It was nice to have a chill, no plan filled weekend! This summer is already full of plans I am embracing the free moments I have.
+
+04/22/2017
+==============
+Nathan and I had the same work schedule today and rode the train together! 
