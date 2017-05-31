@@ -184,4 +184,37 @@ The rest of the day was more checking stuff off lists: chores, book reading, ske
 
 04/22/2017
 ==============
-Nathan and I had the same work schedule today and rode the train together! 
+Nathan and I had the same work schedule today and rode the train together!
+
+Predators win!!
+
+04/23/2017
+==============
+
+04/24/2017
+==============
+I paid off my car! Also finally got the AC fixed.
+
+04/25/2017
+==============
+Applied for job!
+
+04/26/2017
+==============
+Played Nintendo with Nathan and got to hang out and chill for the evening.
+
+04/27/2017
+==============
+Went to the Museum of Flight it was amazing and we spent almost 4 hours there it was so cool to look at everything!
+
+04/28/2017
+==============
+Went to the Henry's for Memorial Day cookout!
+
+04/29/2017
+==============
+Chill day and made lots of pasta!
+
+04/30/2017
+==============
+Work was chill coming back after the break. 

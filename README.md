@@ -10,15 +10,15 @@ I want to be a better designer, but also learn how think like a developer. As I 
 4. Get better at articulating my ideas
 5. Make Health a Priority
 
-# May 14, 2017
+# May 28, 2017
 
 ### This Week's Goal: Carpe Diem. It's scary, opportunities are new, but seize the day and don't second guess.
 
 ## Things I'll Do This Week:
-- [ ] Read another 3 chapters of Lean In.
-- [ ] Refresh existing portfolio site
-- [ ] E-mail Evoynne to see what she is looking for in a new website
+- [ ] Start researching for Evoynne
 - [ ] Write outline for personal brand/design story
+- [ ] Write out questions for interview
+- [ ] Interview Prep
 
 ### Things I'll Do This Month: May 2017
 - [ ] Read a web design book

@@ -29,3 +29,23 @@ Week of May 14
 2. Wednesday - Walk on treadmill 30 minutes.
 3. Friday - Walk 3.1 miles at Soos Creek Trail
 4. Saturday - Walk 5 miles at Soos Creek Trail
+
+Week of May 21
+====================
+1. Monday
+  - Run 10 minutes speed 4.5
+  - Walk 2 minutes speed 3.5
+  - Run 10 minutes speed 4.5
+  - Walk 2 minutes speed 3.5
+  - Run 6 minutes speed 4.5
+  - = 30 minutes
+
+  2. Tuesday - Walk on trail 50 minutes
+  3. Wednesday - Walk down road 1 hour-ish (2-ish miles)
+  4. Thursday - 30 minute run (2.41 miles)
+  5. Friday -  54:53 minutes walking on trail (3.1 miles)
+
+  Week of May 28
+  ====================
+  1. Monday - 1:21:31 minutes walking on trail (5 miles)
+  2. Tuesday - 30 minutes run/walking treadmill (2.75 miles)
