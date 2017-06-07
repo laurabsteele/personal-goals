@@ -8,7 +8,7 @@ Books That I Want to Read
 ## Fiction
 
 ### Inheritance Series
-- [ ] Eragon - Christopher Paolini
+- [X] Eragon - Christopher Paolini
 - [ ] Eldest - Christopher Paolini
 - [ ] Brisingr - Christopher Paolini
 - [ ] Inheritance - Christopher Paolini

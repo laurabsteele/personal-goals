@@ -217,4 +217,15 @@ Chill day and made lots of pasta!
 
 04/30/2017
 ==============
-Work was chill coming back after the break. 
+Work was chill coming back after the break.
+
+04/31/2017
+==============
+Got to go to Bible study!  Everyone is working through some hard stuff but since the sun has come out for the summer there is a lot more positivity. Everyone is praying for me and my interview!
+
+05/01/2017
+==============
+Interview /# 1 with the PMs went amazing! I feel like if I don't get the job it is not because of something I did.
+
+05/02/2017
+==============

@@ -10,23 +10,21 @@ I want to be a better designer, but also learn how think like a developer. As I 
 4. Get better at articulating my ideas
 5. Make Health a Priority
 
-# May 28, 2017
+# June 4, 2017
 
-### This Week's Goal: Carpe Diem. It's scary, opportunities are new, but seize the day and don't second guess.
+### This Week's Goal: Enjoy the routine while it lasts
 
 ## Things I'll Do This Week:
 - [ ] Start researching for Evoynne
-- [ ] Write outline for personal brand/design story
-- [ ] Write out questions for interview
-- [ ] Interview Prep
-
-### Things I'll Do This Month: May 2017
-- [ ] Read a web design book
-- [ ] Write self brand story
-- [x] Start collecting ideas for personal design brand. Starting the new portfolio site process
-- [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)
+- [ ] Finish camping plan
+- [ ] Clean the apartment for company
+- [ ] Finish Bible study
+- [ ] Throw awesome outing for work
+- [ ] Enjoy anniversary with Nathan
 
 ### Backlog: Side Projects
+- [ ] Read a web design book
+- [ ] Write self brand story
 - [ ] Seattle Thunderbirds Infographic
 - [ ] Hockey Basics Infographic
 - [ ] Cookbook App or actual book. Not sure what this looks like. Thinking about doing UX research on what people who cook would want.
@@ -44,3 +42,4 @@ I want to be a better designer, but also learn how think like a developer. As I 
 - [ ] Understand JSON
 - [x] Figure out what [Surge](http://surge.sh/) is (not something I want to get into right now. Might be cool for future projects)
 - [ ] Attempt [JS30](https://javascript30.com/)
+- [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)

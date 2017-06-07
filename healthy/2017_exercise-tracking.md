@@ -49,3 +49,7 @@ Week of May 21
   ====================
   1. Monday - 1:21:31 minutes walking on trail (5 miles)
   2. Tuesday - 30 minutes run/walking treadmill (2.75 miles)
+  3. Thursday - 1.5 mile run on trail (under 12 minute mile)
+
+  Week of June 4
+  ====================
