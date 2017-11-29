@@ -2,8 +2,6 @@ Books That I Want to Read
 ==================
 
 ## In Progress
-- [ ] RESPONSIVE DESIGN: PATTERNS & PRINCIPLES - Ethan Marcotte
-- [ ] Archenemy - Frank Beddor
 
 ## Fiction
 
@@ -24,12 +22,12 @@ Books That I Want to Read
 - [ ] Dust - Hugh Howey
 
 ### Codex Alera Series
-- [ ] Furies of Calderon - Jim Butcher
-- [ ] Academ's Fury - Jim Butcher
-- [ ] Cursor's Fury	 - Jim Butcher
-- [ ] Captain's Fury - Jim Butcher
-- [ ] Princeps' Fury - Jim Butcher
-- [ ] First Lord's Fury - Jim Butcher
+- [X] Furies of Calderon - Jim Butcher
+- [X] Academ's Fury - Jim Butcher
+- [X] Cursor's Fury	 - Jim Butcher
+- [X] Captain's Fury - Jim Butcher
+- [X] Princeps' Fury - Jim Butcher
+- [X] First Lord's Fury - Jim Butcher
 
 ### Skinjacker Trilogy
 - [ ] Everlost - Neal Shusterman
@@ -70,13 +68,15 @@ Books That I Want to Read
 - [ ] Station Eleven - Emily St. John Mandel
 - [ ] Til We Have Faces -  C. S. Lewis
 - [ ] Watership Down - Richard Adams
-- [ ] Where'd You Go, Bernadette-  Maria Semple
+- [ ] Where'd You Go, Bernadette -  Maria Semple
 - [ ] Series of Unfortunate Events
 - [ ] Between the Lines - Jodi Picoult & Samantha van Leer
 - [ ] Off the Page - Jodi Picoult & Samantha van Leer
 
 ## Career Building
 - [ ] Nice Girls Don't Get the Corner Office - Lois P. Frankel
+- [X] Lean In - Sheryl Sandberg
+- [ ] Deep Work: Rules for Focused Success in a Distracted World - Cal Newport
 
 ### Development
 - [ ] RESPONSIVE DESIGN: PATTERNS & PRINCIPLES - Ethan Marcotte

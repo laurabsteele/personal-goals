@@ -40,3 +40,7 @@ Slow down. I believe the reason I have a hard time articulating my ideas is beca
 
 # 5. Put health as a priority
 Continue to run or exercise at least 5 times a week. I feel so much better when I do and it is silly to continue to feel bad when I can just do something about it. At the Vegas Half-Marathon I want to be able to run it sub 3 hours.
+
+==============
+
+# 2017 in Review

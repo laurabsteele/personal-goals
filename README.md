@@ -10,36 +10,39 @@ I want to be a better designer, but also learn how think like a developer. As I 
 4. Get better at articulating my ideas
 5. Make Health a Priority
 
-# June 4, 2017
+# November 28, 2017
 
-### This Week's Goal: Enjoy the routine while it lasts
+### This Week's Goal: Get focused back into the routine
 
-## Things I'll Do This Week:
-- [ ] Start researching for Evoynne
-- [ ] Finish camping plan
-- [ ] Clean the apartment for company
-- [ ] Finish Bible study
-- [ ] Throw awesome outing for work
-- [ ] Enjoy anniversary with Nathan
+## Things I'll do Next Week:
+- [ ] Learn basics of CSS Grid
+- [ ] Brainstorm some more projects
+- [ ] Finish Coursera Mentorship class
+- [ ] Come up with goals for 2018
+- [ ] Self review for 2017
 
 ### Backlog: Side Projects
-- [ ] Read a web design book
-- [ ] Write self brand story
+
+### User Experience
+- [ ] Cookbook App UX Project
+- [ ] Travel Timeline UX Project
+
+### Graphic Design
 - [ ] Seattle Thunderbirds Infographic
 - [ ] Hockey Basics Infographic
-- [ ] Cookbook App or actual book. Not sure what this looks like. Thinking about doing UX research on what people who cook would want.
-- [ ] Portfolio Site
-- [ ] Travel Timeline
 - [ ] Goalie mask promo poster
 
+### Career Oriented
+- [ ] Write self brand story
+- [ ] Portfolio Site
+- [ ] Read a web design book
+
 ### Backlog: Career Things I Want to Do/Learn/Play With
-- [X] Find a book about rapid prototyping
 - [ ] Practice rapid prototyping
 - [ ] CSS Grid
 - [ ] NPM Linking
 - [ ] JavaScript
 - [ ] Advanced CSS
 - [ ] Understand JSON
-- [x] Figure out what [Surge](http://surge.sh/) is (not something I want to get into right now. Might be cool for future projects)
 - [ ] Attempt [JS30](https://javascript30.com/)
 - [ ] Read [this blog post (The Complete Guide to CSS Grid)](https://css-tricks.com/snippets/css/complete-guide-grid)

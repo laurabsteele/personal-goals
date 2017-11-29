@@ -40,16 +40,19 @@ Week of May 21
   - Run 6 minutes speed 4.5
   - = 30 minutes
 
-  2. Tuesday - Walk on trail 50 minutes
-  3. Wednesday - Walk down road 1 hour-ish (2-ish miles)
-  4. Thursday - 30 minute run (2.41 miles)
-  5. Friday -  54:53 minutes walking on trail (3.1 miles)
+2. Tuesday - Walk on trail 50 minutes
+3. Wednesday - Walk down road 1 hour-ish (2-ish miles)
+4. Thursday - 30 minute run (2.41 miles)
+5. Friday -  54:53 minutes walking on trail (3.1 miles)
 
-  Week of May 28
-  ====================
-  1. Monday - 1:21:31 minutes walking on trail (5 miles)
-  2. Tuesday - 30 minutes run/walking treadmill (2.75 miles)
-  3. Thursday - 1.5 mile run on trail (under 12 minute mile)
+Week of May 28
+====================
+1. Monday - 1:21:31 minutes walking on trail (5 miles)
+2. Tuesday - 30 minutes run/walking treadmill (2.75 miles)
+3. Thursday - 1.5 mile run on trail (under 12 minute mile)
 
-  Week of June 4
-  ====================
+Week of June 4
+====================
+1. Monday - ~1 hour walking trail (3 miles)
+2. Tuesday - ~1 hour walking trail (3 miles)
+3. Thursday - ~1 hour walking trail (3 miles)
