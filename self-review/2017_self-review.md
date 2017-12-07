@@ -1,6 +1,3 @@
-2017 in Review
-==============
-
 # 2017 Q1 in Review
 
 ## Work

@@ -10,18 +10,26 @@ I want to be a better designer, but also learn how think like a developer. As I 
 4. Get better at articulating my ideas
 5. Make Health a Priority
 
-# November 28, 2017
+# December 3, 2017
 
-### This Week's Goal: Get focused back into the routine
+### This Week's Goal: Try and get focused and get ready for the new year.
 
 ## Things I'll do Next Week:
 - [ ] Learn basics of CSS Grid
-- [ ] Brainstorm some more projects
 - [ ] Finish Coursera Mentorship class
-- [ ] Come up with goals for 2018
+- [ ] Create a non-web projects
+- [ ] Create a list of all the projects I have on my to-do mindset
+- [ ] Write out all the projects and personal focuses in 2018.
 - [ ] Self review for 2017
 
 ### Backlog: Side Projects
+
+### City View Church
+- [ ] Women's Ministry
+- [ ] Brainstorm on how to make marketing better
+- [ ] Goals for 2018 in Marketing. What makes it successful?
+- [ ] Website Updates - Make it more inviting and give more information
+- [ ] Social Media Automation
 
 ### User Experience
 - [ ] Cookbook App UX Project
